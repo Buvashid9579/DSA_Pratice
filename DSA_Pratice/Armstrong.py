@@ -1,4 +1,4 @@
-n = 153
+n = int(input())
 Num = n
 total = 0 
 nod = len(str(n))
